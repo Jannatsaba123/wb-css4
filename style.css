@@ -1,0 +1,35 @@
+.class1{
+   background-color: bisque; 
+    height: 300px;
+    width: 600px;
+}
+h1{
+background-color: rgba(255, 99, 71, 0);
+}
+p{
+    background-color: burlywood;
+    color: cadetblue;
+}
+span{
+    color: inherit;
+    border: 2px solid; 
+}
+.subclass p{
+    color: brown;
+}
+#span1{
+    color: blue;
+    border: 2px solid;
+}
+.class2{
+    background-image: url(../css-c4/img/nature.jpg);
+    background-color: azure;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 600px;
+    
+}
+.class2 h1{
+    background-color: rgba(0, 241, 255, 0);
+    
+}
